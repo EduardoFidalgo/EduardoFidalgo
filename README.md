@@ -15,7 +15,7 @@
 
 
 <!--GIF-->
-  <a href="https://github.com/EduardoFidalgo"><img align="right" alt="Edu-pikachu" src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" alt="Imagem gato usando PC" title="Não esqueça de alimentar seu gato! ;)"></a>
+  <a href="https://github.com/EduardoFidalgo"><img width="400" align="right" alt="Edu-pikachu" src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" alt="Imagem gato usando PC" title="Não esqueça de alimentar seu gato! ;)"></a>
   
   <!--CUSTOMIZAÇÕES-->
 <div style="display: inline_block" ><br>
