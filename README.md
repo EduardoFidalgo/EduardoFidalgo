@@ -32,7 +32,7 @@
 <img align="center" alt="Edu-Bootstrap" title="Boostrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 
  <!--Biblioteca-->
-<h5>Bibliotecas</h5>
+<h5>Bibliotecas:</h5>
   <img align="center" alt="Edu-Jquery" title="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   
 <!--SQL-->
