@@ -12,6 +12,7 @@
 <p>-🐱‍🐉 Olá, sou o <a href="https://github.com/EduardoFidalgo">Edu!</a></p>
 <p>-🐱‍👤 Full-Stack Web Developer (Studant)</p>
 <p>-👾 Iniciante no GITHUB</p>
+<p>-🦉 Disponivel para jobs</p>
 
 
 <!--GIF-->
