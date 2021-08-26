@@ -48,3 +48,5 @@
         android:layout_centerHorizontal="true"
         android:layout_width="@dimen/custom_progress_width"
         android:layout_height="@dimen/custom_progress_height" />
+          CustomProgress customProgress = (CustomProgress) findViewById(R.id.customProgress);
+        customProgress.setMaximumPercentage(0.75f);
