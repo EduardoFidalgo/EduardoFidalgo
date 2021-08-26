@@ -43,4 +43,8 @@
   <!--SITE-->
   <p>Meu primeiro projeto em dsenvolvimento:</p>
   <p>https://floraprodutos.000webhostapp.com/index.php</p>
-      <progress value="70" max="100">70%</progress>
+ <yourpackage.CustomProgress
+        android:id="@+id/customProgress"
+        android:layout_centerHorizontal="true"
+        android:layout_width="@dimen/custom_progress_width"
+        android:layout_height="@dimen/custom_progress_height" />
