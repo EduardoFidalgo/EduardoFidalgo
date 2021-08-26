@@ -43,10 +43,4 @@
   <!--SITE-->
   <p>Meu primeiro projeto em dsenvolvimento:</p>
   <p>https://floraprodutos.000webhostapp.com/index.php</p>
- <yourpackage.CustomProgress
-        android:id="@+id/customProgress"
-        android:layout_centerHorizontal="true"
-        android:layout_width="@dimen/custom_progress_width"
-        android:layout_height="@dimen/custom_progress_height" />
-          CustomProgress customProgress = (CustomProgress) findViewById(R.id.customProgress);
-        customProgress.setMaximumPercentage(0.75f);
+  {##########       }60% concluido
