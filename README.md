@@ -39,7 +39,7 @@
 <!--SQL-->
 <h5>BD:</h5>
 <img align="center" alt="Edu-SQL" title="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  
+  <br>
   <!--SITE-->
   <p>Meu primeiro projeto em dsenvolvimento:</p>
   <p>https://floraprodutos.000webhostapp.com/index.php</p>
