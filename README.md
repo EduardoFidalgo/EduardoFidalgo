@@ -11,8 +11,6 @@
 <h3>Bem vindo ao meu perfil!</h3>
 <p>-🐱‍🐉 Olá, sou o <a href="https://github.com/EduardoFidalgo">Edu!</a></p>
 <p>-🐱‍👤 Full-Stack Web Developer</p>
-<p>-👾 Iniciante no GITHUB</p>
-<p>-🦉 Disponivel para jobs</p>
 
 
 <!--GIF-->
