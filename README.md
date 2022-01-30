@@ -28,6 +28,7 @@
 <!--FrameWorks-->
 <h5>Frameworks:</h5>
 <img align="center" alt="Edu-Bootstrap" title="Boostrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+ <img align="center" alt="Edu-Bootstrap" title="Boostrap" src="https://img.shields.io/badge/Laravel-563D7C?style=for-the-badge&logo=laravel&logoColor=white">
 
  <!--Biblioteca-->
 <h5>Bibliotecas:</h5>
