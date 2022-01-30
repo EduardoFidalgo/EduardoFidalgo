@@ -28,7 +28,7 @@
 <!--FrameWorks-->
 <h5>Frameworks:</h5>
 <img align="center" alt="Edu-Bootstrap" title="Boostrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
- <img align="center" alt="Edu-Bootstrap" title="Boostrap" src="https://img.shields.io/badge/Laravel-563D7C?style=for-the-badge&logo=laravel&logoColor=white">
+ <img align="center" alt="Edu-Laravel" title="laravel" src="https://img.shields.io/badge/Laravel-563D7C?style=for-the-badge&logo=laravel&logoColor=white">
 
  <!--Biblioteca-->
 <h5>Bibliotecas:</h5>
@@ -37,4 +37,6 @@
 <!--SQL-->
 <h5>BD:</h5>
 <img align="center" alt="Edu-SQL" title="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img align="center" alt="Edu-SQL" title="SQL" src="https://img.shields.io/badge/MariaDB-00000F?style=for-the-badge&logo=mariadb&logoColor=white">
+ 
 
