@@ -17,7 +17,7 @@ Estou constantemente em busca de novos desafios e oportunidades para crescer com
 # Contatos
 - <a href="https://wa.me/5513974267888?text=FullStack+Software+Developer+-+My+website%3A+https%3A%2F%2Ffidalgo.vercel.app%2F">Whatsapp</a>
 - eduardofidalgo.dev@gmail.com (Gmail)
-- <a href="https://eduardofidalgodev.vercel.app](https://eduardofidalgo.vercel.app">WebSite</a>
+- <a href="https://eduardofidalgo.vercel.app">WebSite</a>
 - <a href="https://www.linkedin.com/in/eduardo-fidalgo-43801625a/">LinkedIn</a>
 
 # Principais Projetos
