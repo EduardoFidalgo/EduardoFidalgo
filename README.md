@@ -21,8 +21,11 @@ Estou constantemente em busca de novos desafios e oportunidades para crescer com
 - <a href="https://www.linkedin.com/in/eduardo-fidalgo-43801625a/">LinkedIn</a>
 
 # Principais Projetos
-- DeliverySync -> SaaS
-- OurGlass -> SaaS
+- DeliverySync: 
+  SaaS de cardápio digital integrado ao WhatsApp para restaurantes e deliverys. Permite receber pedidos sem taxas por venda, gerenciar produtos, categorias e pedidos em uma plataforma própria, aumentando a fidelização de clientes e reduzindo a dependência de marketplaces.
+
+- OurGlass:
+  Plataforma SaaS de e-commerce inspirada na Shopify, desenvolvida para permitir que empresas criem, personalizem e gerenciem suas lojas virtuais de forma simples e escalável. Oferece gestão de produtos, pedidos, clientes e integrações em um ambiente moderno e intuitivo.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoFidalgo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
