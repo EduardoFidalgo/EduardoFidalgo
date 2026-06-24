@@ -1,8 +1,8 @@
 
 # Eduardo Fidalgo
-## _FullStack Software Developer MidLevel/JR_
+## _FullStack Software Developer MidLevel/SR
 
-Desenvolvedor full-stack com conhecimentos nas tecnologias Java + SpringBoot, PHP, JavaScript, GOlang (GO) e Python.
+Desenvolvedor full-stack com conhecimentos nas tecnologias PHP, Javascrpt, Java + SpringBoot, GOlang (GO) e Python.
 
 Tenho experiências com testes unitários utilizando o framework PHPunit, desenvolvimento de projetos com Laravel, RESTful API's em Lumen, interfaces componentizadas em React, aplicações backend em Node, conhecimento no desenvolvimento de RESTful API's + sistemas WEB em GOlang (GO) e outros.
 
