@@ -21,10 +21,8 @@ Estou constantemente em busca de novos desafios e oportunidades para crescer com
 - <a href="https://www.linkedin.com/in/eduardo-fidalgo-43801625a/">LinkedIn</a>
 
 # Principais Projetos
-- https://github.com/EduardoFidalgo/java-springboot-api
-- https://github.com/EduardoFidalgo/go-web-crud
-- https://github.com/EduardoFidalgo/go-api-rest
-- https://github.com/EduardoFidalgo/go-bank
+- DeliverySync -> SaaS
+- OurGlass -> SaaS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoFidalgo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
