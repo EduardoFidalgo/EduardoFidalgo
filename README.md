@@ -27,5 +27,6 @@ Estou constantemente em busca de novos desafios e oportunidades para crescer com
 - OurGlass:
   Plataforma SaaS de e-commerce inspirada na Shopify, desenvolvida para permitir que empresas criem, personalizem e gerenciem suas lojas virtuais de forma simples e escalável. Oferece gestão de produtos, pedidos, clientes e integrações em um ambiente moderno e intuitivo.
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoFidalgo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
